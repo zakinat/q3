@@ -1,6 +1,6 @@
 # Question 3
 
-a typescript script to sort arrays of number depending on how many holes in a number like the number 9 contains one hole and number 98 contains 3 holes and so one
+a typescript script to sort arrays of number depending on how many holes in a number like the number 9 contains one hole and number 98 contains 3 holes and so on
 ## Usage
 
 you should have installed typescript globaly
